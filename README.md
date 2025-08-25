@@ -32,7 +32,7 @@ my-website/
 <ul>
 <li>Went to the repository settings on GitHub.</li>
 <li>Enabled GitHub Pages and selected the branch to deploy from (usually main or gh-pages).</li>
-<li>Verified that a basic static deployment works.</li>
+<li>Verified that a static deployment works.</li>
 </ul>
 
 <h2><b>4. Create a GitHub Actions Workflow</b></h2>
