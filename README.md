@@ -8,5 +8,11 @@ Start by creating the required files for your website in your local folder:
 <ul>
   <li>index.html</li>
   <li>style.css</li>
-  <li>script.jsl</li>
+  <li>script.js</li>
 </ul>
+<b> Structure </b>
+my-website/
+│
+├── index.html
+├── style.css
+└── script.js
