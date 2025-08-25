@@ -57,7 +57,7 @@ my-website/
 
 <h2><b>Key Learnings</b></h2>
 <ul>
-<li>How to structure a basic front-end project.</li>
+<li>How to structure a front-end project.</li>
 <li>Using Git to manage version control.</li>
 <li>Automating deployment with GitHub Actions.</li>
 <li>Hosting a site for free with GitHub Pages.</li>
