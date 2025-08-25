@@ -15,4 +15,15 @@ my-website/
 │
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── .github/
+    └── workflows/
+        └── deploy.yml
+
+<h2><b>2. Initialize Git and Push to GitHub</b></h2>
+<ul>
+<li>Initialized a local Git repository.</li>
+<li>Committed the project files.</li>
+<li>Created a new repository on GitHub.</li>
+<li>Pushed the local project to the remote repository.</li>
+</ul>
