@@ -1,7 +1,7 @@
 
 <h1><b>GitHub Actions Website Deployment</b></h1>
 
-This project demonstrates how to create a static website and deploy it automatically to GitHub Pages using GitHub Actions.
+This project demonstrates how to create a website and deploy it automatically to GitHub Pages using GitHub Actions.
 <h2><b>1. Create the Project Files</b></h2>
 
 Start by creating the required files for your website in your local folder:
