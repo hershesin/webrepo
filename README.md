@@ -60,6 +60,6 @@ my-website/
 <li>How to structure a basic front-end project.</li>
 <li>Using Git to manage version control.</li>
 <li>Automating deployment with GitHub Actions.</li>
-<li>Hosting a static site for free with GitHub Pages.</li>
+<li>Hosting a site for free with GitHub Pages.</li>
 
 </ul>
